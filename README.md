@@ -1,1 +1,1 @@
-# ed_digital_2_trim.
+# Victor Hugo Cardozo Manzano
