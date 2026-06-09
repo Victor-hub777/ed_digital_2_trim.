@@ -1,1 +1,1 @@
-# Victor Hugo Cardozo Manzano U+2620.
+# Victor Hugo Cardozo Manzano U+2620
