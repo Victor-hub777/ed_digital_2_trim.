@@ -3,3 +3,18 @@ header{
     color: #112A46;
     text-align: center;
     }
+    main{
+        text-align: left;
+        right: 10px;
+        border: 4px groove #112A46;
+        width: fit-content;
+
+    }
+    img{
+        float: left;
+        width: 90px;
+        height: 90px;
+
+    }
+       
+      
