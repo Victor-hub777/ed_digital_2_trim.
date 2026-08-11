@@ -2,27 +2,43 @@
     font-family: cinzel;
     src: url(Fontes/CinzelDecorative-Black.ttf);
 }
+@font-face {
+    font-family: Roman;
+    src: url(Fontes/LuxuriousRoman-Regular.ttf)
+}
 header{
     border-radius: 20px;
-    background-color: #daebfd;
-    color: #112A46;
+    padding: 20px;
+    background-color: #030B35;
+    color: #8BC1FF;
     text-align: center;
     }
 main{
-        background-color: #BBDBFE;  
-        color: #112A46;  
+    border-radius: 20px;
+    padding: 50px;    
+    background-color: #0A0039; 
+        color: #8BC1FF;
         text-align: center;
 }
 img{
         float: left;
-        width: 90px;
-        height: 90px;
+        width: 70px;
+        height: 70px;
 
 }
 h1{
     font-family: cinzel, Helvetica, sans-serif;
-}    
+} 
+.h1-{
+    color: #fff;
+}  
 h3 {
     font-family: cinzel, Helvetica, sans-serif;
     text-align: left;
+}
+.h3 {
+    padding-left: 100px;
+}
+.p-main{
+    text-align: center;
 }
