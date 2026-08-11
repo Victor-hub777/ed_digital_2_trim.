@@ -1,20 +1,28 @@
+@font-face {
+    font-family: cinzel;
+    src: url(Fontes/CinzelDecorative-Black.ttf);
+}
 header{
-    background-color: #BBDBFE;
+    border-radius: 20px;
+    background-color: #daebfd;
     color: #112A46;
     text-align: center;
     }
-    main{
-        text-align: left;
-        right: 10px;
-        border: 4px groove #112A46;
-        width: fit-content;
-
-    }
-    img{
+main{
+        background-color: #BBDBFE;  
+        color: #112A46;  
+        text-align: center;
+}
+img{
         float: left;
         width: 90px;
         height: 90px;
 
-    }
-       
-      
+}
+h1{
+    font-family: cinzel, Helvetica, sans-serif;
+}    
+h3 {
+    font-family: cinzel, Helvetica, sans-serif;
+    text-align: left;
+}
