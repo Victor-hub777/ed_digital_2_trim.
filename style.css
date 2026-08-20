@@ -1,10 +1,10 @@
 @font-face {
     font-family: cinzel;
-    src: url(Fontes/CinzelDecorative-Black.ttf);
+    src: url(fonts/CinzelDecorative-Black.ttf);
 }
 @font-face {
     font-family: Roman;
-    src: url(Fontes/LuxuriousRoman-Regular.ttf)
+    src: url(fonts/LuxuriousRoman-Regular.ttf)
 }
 header{
     border-radius: 20px;
@@ -57,12 +57,21 @@ ul {
   list-style-type: none; 
 }
 h5 {
-    color:#ffff
+    color:#ffffff9c
+   
 }
-button{
+.h5- {
+    font-family: Roman, Helvetica, sans-serif;
+    font-size: 20px;
     
 }
-.button-cont{
-    display: flex;
-    justify-content: flex-start;
+.i- {
+    color:#ffff;
+}
+.strong- {
+    color:#a8d0fd;
+}
+.p-{
+    font-size: 15px;
+    color:#b7d9ff;
 }
